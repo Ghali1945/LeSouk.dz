@@ -1,0 +1,13 @@
+
+{
+  "Header": {
+    "title": "Le Souk"
+  },
+  "Home": {
+    "heroTitle": "Bienvenue sur Le Souk",
+    "heroDescription": "Découvrez des produits uniques pour tous vos besoins, livrés rapidement !",
+    "explore": "Explorer les catégories",
+    "categoriesTitle": "Nos Catégories",
+    "productsTitle": "Produits en Vedette"
+  }
+}
